@@ -167,8 +167,8 @@ Keterangan:
 
 ## Website dan Repository
 
-- **URL GitHub Pages:** [Masukkan URL website yang telah dipublikasikan]
-- **URL Repository GitHub:** https://github.com/lanangdarmayasa/Air-Bersih
+- **URL GitHub Pages:** https://lanangdarmayasa.github.io/ProjectPemWeb_Kelompok8/
+- **URL Repository GitHub:** https://github.com/lanangdarmayasa/ProjectPemWeb_Kelompok8
 
 Catatan: URL GitHub Pages perlu disesuaikan dengan alamat yang muncul pada pengaturan GitHub Pages setelah website berhasil dipublikasikan.
 
@@ -185,3 +185,5 @@ Catatan: URL GitHub Pages perlu disesuaikan dengan alamat yang muncul pada penga
 **Mata Kuliah:** Pemrograman Web  
 **Proyek:** Ujian Tengah Semester (UTS)  
 **Topik:** Website Edukasi Air Bersih dan Sanitasi Layak — SDG 6
+
+hvags
