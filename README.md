@@ -187,4 +187,4 @@ Catatan: URL GitHub Pages perlu disesuaikan dengan alamat yang muncul pada penga
 
 **Mata Kuliah:** Pemrograman Web  
 **Proyek:** Ujian Tengah Semester (UTS)  
-**Topik:** Website Edukasi Air Bersih dan Sanitasi Layak — SDG 6
+**Topik:** Website Edukasi Air Bersih dan Sanitasi Layak — SDG 6 
