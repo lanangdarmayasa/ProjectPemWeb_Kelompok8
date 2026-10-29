@@ -140,24 +140,26 @@ Penggunaan CSS eksternal membantu menjaga konsistensi desain dan memudahkan peru
 
 Struktur folder proyek website adalah sebagai berikut:
 
+
+## Struktur Proyek
+
 ```text
-responsive-educational-website/
+ProjectPemWeb_Kelompok8/
 ├── index.html
 ├── edukasi.html
 ├── panduan.html
 ├── artikel.html
 ├── tentang.html
-├── css/
-│   └── style.css
-├── images/
-│   ├── index.png
-│   ├── edukasi.jpg
-│   ├── panduan.jpg
-│   ├── artikel.jpg
-│   ├── panduan.jpg
-│   └── tentang.jpg
+├── style.css
+├── artikel.jpg
+├── edukasi.jpg
+├── foto.CitraHermandaBrSembiring.jpeg
+├── foto.IGustiLanangDarmaYasa.jpeg
+├── foto.IKetutYudistiraSaputra.jpeg
+├── foto.PutuMahardika.jpeg
 └── README.md
 ```
+
 
 Keterangan:
 - File HTML digunakan untuk menyusun lima halaman website.
