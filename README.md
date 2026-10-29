@@ -1,6 +1,3 @@
-# ProjectPemWeb_Kelompok8
-Website edukasi tentang pentingnya air bersih dan sanitasi layak berdasarkan Sustainable Development Goal (SDG) 6. Dibuat menggunakan HTML dan CSS sebagai proyek UTS Pemrograman Web.
-
 # Air Bersih untuk Semua
 ### Website Edukasi Air Bersih dan Sanitasi Layak
 Mendukung Sustainable Development Goal (SDG) 6 — Air Bersih dan Sanitasi Layak
@@ -109,7 +106,7 @@ Contoh kode HTML:
 ```html
 <div class="hero-art">
   <img
-    src="images/index.jpg"
+    src="images/hero.jpg"
     alt="Pemandangan sumber air bersih"
   >
 </div>
@@ -170,8 +167,8 @@ Keterangan:
 
 ## Website dan Repository
 
-- **URL GitHub Pages:** [Masukkan URL website yang telah dipublikasikan]
-- **URL Repository GitHub:** https://github.com/lanangdarmayasa/Air-Bersih
+- **URL GitHub Pages:** https://lanangdarmayasa.github.io/ProjectPemWeb_Kelompok8/
+- **URL Repository GitHub:** https://github.com/lanangdarmayasa/ProjectPemWeb_Kelompok8
 
 Catatan: URL GitHub Pages perlu disesuaikan dengan alamat yang muncul pada pengaturan GitHub Pages setelah website berhasil dipublikasikan.
 
@@ -187,4 +184,6 @@ Catatan: URL GitHub Pages perlu disesuaikan dengan alamat yang muncul pada penga
 
 **Mata Kuliah:** Pemrograman Web  
 **Proyek:** Ujian Tengah Semester (UTS)  
-**Topik:** Website Edukasi Air Bersih dan Sanitasi Layak — SDG 6 
+**Topik:** Website Edukasi Air Bersih dan Sanitasi Layak — SDG 6
+
+hvags
