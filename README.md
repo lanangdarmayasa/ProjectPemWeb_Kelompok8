@@ -109,7 +109,7 @@ Contoh kode HTML:
 ```html
 <div class="hero-art">
   <img
-    src="images/hero.jpg"
+    src="images/index.jpg"
     alt="Pemandangan sumber air bersih"
   >
 </div>
